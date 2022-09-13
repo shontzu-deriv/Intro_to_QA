@@ -1,4 +1,4 @@
-# QA
+# INTRO TO  QA
 ## QA 4 sub teams
 - smart trade, relesase, visual automation testing
 - mobile, dtrader, crypto
