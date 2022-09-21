@@ -1,6 +1,6 @@
 # Getting Started with TestProject
 ## Install Agent
-- create account at [testProject](https://testproject.io/)
+- create account at [TestProject](https://testproject.io/)
 - Agents > Linux
 
 ## Configure permission
@@ -16,5 +16,11 @@
 
 ## Start Agent
 - cd into ^ (`cd /home/keoy/testproject/agent/bin/`)
-- ./testproject-agent-app
+- `./testproject-agent-app` //run this file from ./ directory
+OR
+- `testproject-agent-app` //will run if added in bashrc
+
+## Automated Testing
+- open emulater on Android Studio OR connect to physical device via data cable
+- device should be detected on TestProject
 
